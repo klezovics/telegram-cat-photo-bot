@@ -1,0 +1,6 @@
+camel:
+  component:
+    telegram:
+      authorization-token: 1815874401:AAEIGIfWfzm3-hzhQ68xEheWnPth7pSBGjU
+  springboot:
+    main-run-controller: true
